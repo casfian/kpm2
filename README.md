@@ -1,6 +1,8 @@
 # kpm2
 
-A new Flutter project.
+Flutter Project for KPM
+1. Has Login
+2. Get API from Github as an example. Need to later change to correct API.
 
 ## Getting Started
 
