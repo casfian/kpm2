@@ -1,6 +1,6 @@
 # kpm2
 
-Flutter Project for KPM
+Flutter Project for KPM to Kickstart their project.
 1. Has Login
 2. Get API from Github as an example. Need to later change to correct API.
 
