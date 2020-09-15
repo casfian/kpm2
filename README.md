@@ -1,7 +1,7 @@
 # kpm2
 
 Flutter Project for KPM to Kickstart their project.
-1. Has Login
+1. Has Manual Login. Once Login API, need to change it. 
 2. Get API from Github as an example. Need to later change to correct API.
 
 ## Getting Started
